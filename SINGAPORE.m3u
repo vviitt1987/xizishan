@@ -1,3 +1,6 @@
+
+#EXTM3U
+
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="新加坡",HBO
 http://harakesh21.work/play/live.php?mac=00:1a:79:b1:05:9e&extension=ts&stream=941648
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="新加坡",HBO Hits
